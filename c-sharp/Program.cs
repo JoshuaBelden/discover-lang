@@ -7,8 +7,8 @@ namespace c_sharp
         static void Main(string[] args)
         {
             var koan = new Koan();
-
             koan.HelloWorld();
+            koan.IndicesAndRanges();
         }
     }
 }
