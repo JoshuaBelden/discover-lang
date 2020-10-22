@@ -1,5 +1,7 @@
 'use strict'
 
-const helloWorld = require('./hello-world.js');
+const helloWorld = require('./hello-world');
+const fizzBuzz = require('./fizz-buzz');
 
 helloWorld();
+fizzBuzz();
