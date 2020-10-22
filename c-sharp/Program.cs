@@ -9,6 +9,7 @@ namespace c_sharp
             var koan = new Koan();
             koan.HelloWorld();
             koan.IndicesAndRanges();
+            koan.FizzBuzz();
         }
     }
 }
