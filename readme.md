@@ -1,8 +1,6 @@
-# Koans
+# Discover Lang
 
-## Welcome
-
-These are my personal koans that I've been practicing several different languages with. While there's no fancy way to run everything, the idea is that I work on one koan and one language at a time and run it until it builds.
+My research into different languages and their features.
 
 ## Languages
 
